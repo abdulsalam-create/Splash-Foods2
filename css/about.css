@@ -1,0 +1,12 @@
+:root {
+  --clr-primary-3: hsl(205, 72%, 37%);
+}
+.about-text {
+  font-style: italic;
+}
+.clr-prim {
+  --clr-primary-3: hsl(205, 85%, 79%) !important;
+}
+.about-img {
+  opacity: 30%;
+}
